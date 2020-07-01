@@ -1,0 +1,72 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: 'Roboto', sans-serif;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left:3%;
+    padding-left:2%;
+}
+.half-width img{
+    width: 100%;
+}
+.half{
+    position: relative;
+    top:100px;
+    left:100px;
+}
+.name-highlight{
+    font-weight: 700;
+    color:rgb(238, 31, 117);
+    font-style: bold;;
+}
+.hire-button{
+    background-image:linear-gradient(pink,rgb(255, 0, 128));
+    padding:10px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    color:white;
+    font-weight: 700;
+}
+.head{
+    background-image:url(/Image/header-bg.png);
+    height:500px;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.half-width2{
+    width:40%;
+    float:left;
+    margin-left:5%;
+    padding-left:2%;
+}
+.half-width2 img{
+width:100%;
+}
+.bio{
+    position: relative;
+    right:100px;
+    top:100px;
+}
+.biography{
+    background-image:url(image/biography-bg.png);
+    height:500px;
+    background-size: cover;
+}
+.work-section{
+    height:500px;
+    background-image:url(/Image/latest-work-bg.png);
+    background-size:cover;
+    background-repeat:no-repeat;}
+.work-section h1{
+    text-align: center;
+}
+
+
+.latest-work img{
+    width:30%;
+    float:left;
+    padding:1.5%;
+}
