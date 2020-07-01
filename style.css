@@ -8,6 +8,7 @@ body{
     float:left;
     margin-left:3%;
     padding-left:2%;
+    text-align:justify;
 }
 .half-width img{
     width: 100%;
@@ -29,6 +30,11 @@ body{
     text-decoration: none;
     color:white;
     font-weight: 700;
+    
+}
+
+.hire-button:hover{
+    background-image: linear-gradient(orange,pink);
 }
 .head{
     background-image:url(/Image/header-bg.png);
@@ -69,4 +75,31 @@ width:100%;
     width:30%;
     float:left;
     padding:1.5%;
+}
+
+.last-section{
+    height:400px;
+    text-align:center;
+    padding:2%;
+}
+.client{
+    position:relative;
+    top:5x;
+}
+#mail-box{
+    width:500px;
+    height:120px;
+    background-color: rgb(255, 55, 115);
+   position: relative;
+   left:30%;
+   border-radius: 10px;
+   padding:5px;
+   
+
+}
+footer{
+    text-align: center;
+    padding:2%;
+}
+
 }
