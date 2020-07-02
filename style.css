@@ -102,4 +102,15 @@ footer{
     padding:2%;
 }
 
+
+.extra-list{
+width:20%;
+margin-right:3%;
+margin-bottom: 20px;
+float:left;
+padding:4%;
+box-shadow: 10px 10px 20px grey;
+font-family: cooper;
 }
+
+
